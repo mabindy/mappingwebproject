@@ -56,5 +56,4 @@ Internet of Things (IoT) devices use web servers to send and receive real-time d
 ## Resources
 
 - [How Web Servers Work](https://www.howstuffworks.com/web-server.htm)
-- [Cloud Storage Explained](https://www.cloudstorage.com/guide)
 - [Understanding HTTPS](https://www.ssl.com/faqs/what-is-https/)
