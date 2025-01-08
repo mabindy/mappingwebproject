@@ -51,7 +51,7 @@ Internet of Things (IoT) devices use web servers to send and receive real-time d
 ## Diagrams and Pictures
 
 ![Web Server Diagram](https://github.com/mabindy/mappingwebproject/blob/main/webservers.drawio.png)
-*Figure 1: Diagram showing how a web server processes requests and sends responses.*
+*Diagram showing how a web server processes requests and sends responses.*
 
 ## Resources
 
